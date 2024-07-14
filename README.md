@@ -30,7 +30,6 @@ The model constructs multiple class prototypes in a low-dimensional space and em
     ```bash
     pip install -r requirements.txt
     ```
-
 ## Dataset
 1.You can download the hyperspectral datasets in mat format at: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
 
