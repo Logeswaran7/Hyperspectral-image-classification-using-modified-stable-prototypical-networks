@@ -37,4 +37,4 @@ The model constructs multiple class prototypes in a low-dimensional space and em
 2.We conducted experiments using a limited subset of corrected dataset along with their corresponding ground truth labels, which have been included in the repository
 
 ## Model-architecture
-1.You can refer to the paper at this link [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175) to explore Prototypical Networks, introduced by Jake Snell, Kevin Swersky, and Richard Zemel in their December 2017 paper titled "Prototypical Networks for Few-shot Learning.
+1.To know about legacy prototypical model architecture you can refer to the paper at this link [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175), introduced by Jake Snell, Kevin Swersky, and Richard Zemel in their December 2017 paper titled "Prototypical Networks for Few-shot Learning.
