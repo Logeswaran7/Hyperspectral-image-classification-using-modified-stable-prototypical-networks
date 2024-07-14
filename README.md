@@ -33,6 +33,7 @@ The model constructs multiple class prototypes in a low-dimensional space and em
 
 ## Dataset
 1.You can download the hyperspectral datasets in mat format at: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
+
 2.We conducted experiments using a limited subset of corrected dataset along with their corresponding ground truth labels, which have been included in the repository
 
 ## Model-architecture
