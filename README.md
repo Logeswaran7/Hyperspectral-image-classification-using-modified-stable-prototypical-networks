@@ -26,10 +26,6 @@ The model constructs multiple class prototypes in a low-dimensional space and em
     git clone https://github.com/Logeswaran7/Hyperspectral-image-classification-using-modified-stable-prototypical-networks.git
     cd Hyperspectral-image-classification-using-modified-stable-prototypical-networks
     ```
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
 ## Dataset
 1.You can download the hyperspectral datasets in mat format at: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
 
