@@ -33,4 +33,5 @@ The model constructs multiple class prototypes in a low-dimensional space and em
 
 ## Model-architecture
 1.To know about legacy prototypical model architecture you can refer to the paper at this link [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175), introduced by Jake Snell, Kevin Swersky, and Richard Zemel in their December 2017 paper titled "Prototypical Networks for Few-shot Learning.
+
 2.check out our research paper [https://doi.org/10.1109/ICSCSS60660.2024.10625598]
